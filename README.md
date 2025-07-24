@@ -1,7 +1,7 @@
 
 ## 👋 Merhaba, ben Betül!
 
-Ben bir Yazılım Mühendisliği öğrencisiyim. Özellikle aşağıdaki alanlara ilgi duyuyorum:
+Yazılım Mühendisliği öğrencisiyim. Özellikle aşağıdaki alanlara ilgi duyuyorum:
 
 - 💡 Otonom araçlar & robotik sistemler (ROS2, PyTrees, PID)
 - 🐍 Python, C# ve Web programlama
@@ -15,7 +15,6 @@ Ben bir Yazılım Mühendisliği öğrencisiyim. Özellikle aşağıdaki alanlar
 
 - 🧠 Algoritma ve yazılım mühendisliği konularında kendimi geliştiriyorum.
 - 🤖 TEKNOFEST gibi yarışmalar için otonom araç yazılımları geliştiriyorum.
-- 📝 Açık kaynak projelere katkı sağlamayı hedefliyorum.
 
 ---
 
